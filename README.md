@@ -1,0 +1,2 @@
+# PnCcalculator
+Combinatorics calculator
